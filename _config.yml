@@ -24,8 +24,8 @@ description: Experimental scientist. PhD in physics
 # List of links in the navigation bar
 navbar-links:
   About Me: "index"
-  Blog: "blog"
-  Projects: "projects"
+  Blog: paginate_path: "/blog/page:num/"
+  Projects: "projects/"
 
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
