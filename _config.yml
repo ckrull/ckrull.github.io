@@ -25,6 +25,7 @@ description: Experimental scientist. PhD in physics
 navbar-links:
   About Me: "index"
   Blog: "/blog/page:num/"
+  Blog2: "blog/blog/"
   Projects: "projects/"
 
  # Resources:
