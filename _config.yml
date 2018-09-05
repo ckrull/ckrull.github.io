@@ -20,12 +20,12 @@ title: Cornelius Krull
 description: Experimental scientist. PhD in physics
 
 # --- Navigation bar options --- #
+paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "index"
-  Blog: "/blog/page:num/"
-  Blog2: "blog/blog/"
+  Blog: "blog/"
   Projects: "projects/"
 
  # Resources:
