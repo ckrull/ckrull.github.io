@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Cornelius Krull, I am physicist by trade. I am working in nanoscience, molecular electronics,  and surface characterization. My recent projects include combining machine learning approaches with advanced surface science laboratries. I obtained my PhD in Physics of nano-systems mid 2012 at the Autonomous University of Barcelona, Spain. My efforts in fundamental science have been very successful, I have published results in several high impact journals, and my PhD Thesis was recognized in the prestigious Springer Thesis series. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [Publications](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=2ahUKEwiWhqaJrabdAhUHuI8KHeCYDNAQFjAEegQIBhAB&url=http%3A%2F%2Fscholar.google.es%2Fcitations%3Fuser%3DW_Ok-8oAAAAJ%26hl%3Den&usg=AOvVaw3omGxSf6vMFuOHs5DAQwwv) 
+- [Projects](projects/)
