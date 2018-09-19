@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI for nanoscience microscopy
-subtitle: automating Scanning Probe Microscopy 
+subtitle: Automating Scanning Probe Microscopy 
 bigimg: /img/cover_3D_flame.jpg
 tags: [projects]
 ---
@@ -10,6 +10,6 @@ tags: [projects]
 
 We are working on a machine learning based framework to operate an SPM autonomously. It detects the experimental conditions  and intelligently addresses any arising issues to acquire data without the need for human supervision.
 
-(the image shows a nanoscopic image of [single metal organic molecules](https://www.nature.com/articles/nmat3547)imaging with a SPM system)
+(the image shows a nanoscopic image of [single metal organic molecules](https://www.nature.com/articles/nmat3547) imaged with a SPM system)
 
 Publication in preparation, stay tuned for more details.
