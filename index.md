@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+image: /img/profile.jpg
 ---
 
 My name is Cornelius Krull, I am physicist by trade, working in nanoscience. Recently, I am combining (deep) machine learning approaches with advanced electron-based microscopy. I obtained my PhD in Physics of nano-systems mid 2012 at the Autonomous University of Barcelona, Spain. My efforts in fundamental science have been very successful, and I have published results in several high impact journals (Nature, Physical Review Letters). My PhD Thesis was recognised in the prestigious [Springer Thesis](https://www.springer.com/gp/book/9783319026596) series. 
