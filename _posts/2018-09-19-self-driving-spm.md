@@ -6,10 +6,10 @@ bigimg: /img/cover_3D_flame.jpg
 tags: [projects]
 ---
 
-[Scanning Probe Microscopy](https://en.wikipedia.org/wiki/Scanning_probe_microscopy) (SPM) is a powerful surface characterisation technique, that has revolutionised many fields spanning from nano-science to biology. Not only does it allow the recording of atomically resolved image data and insight into material properties, e.g. the electronic structure through Scanning Tunnelling Spectroscopy (STS) or chemical bonds using non-contact Atomic Force Microscopy (ncAFM) , but also the manipulation of nanoscopic systems with the same level of precision. However, achieving these resolutions and maintaining stable operation requires an expert user to monitor and control the experimental conditions of the instrument, the sample and, in particular, the probe. Consequently, advanced SPM is mainly found in specialist laboratories.
+[Scanning Probe Microscopy](https://en.wikipedia.org/wiki/Scanning_probe_microscopy) (SPM) is a powerful surface characterisation technique, that has revolutionised many scientific fields ranging from nano-science to biology. Its ability to resolve structures down to the level of individual atoms has led to many impressive insights and a [nobel prize](https://www.nobelprize.org/prizes/physics/1986/summary/).  But SPM is more than that, it is also a tool to manipulate individual atoms to create any desired shape for example to write letters, quantum objects or create [movies. ](https://www.youtube.com/watch?v=oSCX78-8-q0)
 
-We are working on a machine learning based framework to operate an SPM autonomously. It detects the experimental conditions  and intelligently addresses any arising issues to acquire data without the need for human supervision.
-
-(the image shows a nanoscopic image of [single metal organic molecules](https://www.nature.com/articles/nmat3547) imaged with a SPM system)
+However, these feats come at a price. Operation of an SPM is not straightforward and requires expertise and  impressive amounts of patience.  Maintaining an SPM probe in good working conditions involves [*soul destroying repetition*](https://www.nature.com/articles/d41586-018-03305-2). This is where deep learning comes in. We are currently working on a machine learning framework that can to operate an SPM autonomously. It intelligently detects arising issues and repairs them without the need for human supervision. 
 
 Publication in preparation, stay tuned for more details.
+
+(the image shows a nanoscopic image of [single metal organic molecules](https://www.nature.com/articles/nmat3547) imaged with a SPM system)
