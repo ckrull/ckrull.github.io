@@ -4,9 +4,10 @@ title: About me
 image: /img/profile.jpg
 ---
 
-My name is Cornelius Krull, I am physicist by trade, working in nanoscience. I am passionate about the possibilities (deep) machine learning is opening. Currrently, I am applying deep learning and reinforcement learning to advanced electron-based microscopy. 
+My name is Cornelius Krull, I am a physicist turned data scientist. I am passionate about the possibilities that data driven approaches and  machine learning are opening in  almost all areas of life. Currrently, I am working in a data science consulting firm ([anacision GmbH](anacision.de)) helping our clients to create the intelligent systems they need.
 
-I obtained my PhD in Physics of nano-systems mid 2012 at the Autonomous University of Barcelona, Spain. My research in fundamental science has been very successful, and I have published results in several high impact journals (Nature Materials, Physical Review Letters, etc ). My PhD Thesis was recognised in the prestigious [Springer Thesis](https://www.springer.com/gp/book/9783319026596) series. 
+I was born in Aachen, Germany, studied at the FU Berlin, and I obtained my PhD in Physics of nano-systems mid 2012 at the Autonomous University of Barcelona, Spain. My research in fundamental science has been very successful, and I have published results in several high impact journals (Nature Materials, Nature Communications, Physical Review Letters, etc ). My PhD Thesis was recognised in the prestigious [Springer Thesis](https://www.springer.com/gp/book/9783319026596) series. 
+I since then lived and worked  in Melbourne, Australia and Karlsruhe, Germany.
 
 Have a look at:
 
