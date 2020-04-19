@@ -14,13 +14,15 @@ This system, dubbed DeepSPM,  can operate and acquire optimal SPM data autonomou
 
 The advance bridges the gap between nanoscience, automation and artificial intelligence (AI), and firmly establishes the use of machine learning for experimental scientific research. DeepSPM brings advanced SPM methodologies such as atomically-precise nanofabrication and high-throughput data acquisition closer to a fully automated turnkey application. The  [framework](https://github.com/abred/DeepSPM) is publicly available  as open source, creating an important resource for the nanoscience research community. 
 
-Crucial to the success of DeepSPM is the use of a self-learning agent, as the correct control inputs for SPMs are not known beforehand. Learning from experience, our agent adapts to changing experimental conditions and finds a strategy to keep the system stable.
+Crucial to the success of DeepSPM is the use of a self-learning agent, as the correct control inputs for SPMs are not known beforehand. Learning from experience, the agent adapts to changing experimental conditions and finds a strategy to keep the system stable.
 
 Our [study](https://www.nature.com/articles/s42005-020-0317-3) demonstrates fully autonomous, long-term SPM operation for the first time by combining:
 
 - an algorithmic approach for sample area selection and SPM data acquisition;
 - supervised machine learning using convolutional neural networks for quality assessment and classification of SPM data, and
 - deep reinforcement learning for dynamic automated in-situ probe management and conditioning.
+
+
 
 ###### THE STUDY
 
